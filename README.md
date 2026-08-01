@@ -3,6 +3,6 @@
 ## Database
 
 | Problem |
-|---------|
-| [0584 - Find Customer Referee](./584-find-customer-referee) |
-| [1757 - Recyclable and Low Fat Products](./1757-recyclable-and-low-fat-products) |
+| ------- |
+| [584. Find Customer Referee](./584.%20Find%20Customer%20Referee) |
+| [1757. Recyclable and Low Fat Products](./1757.%20Recyclable%20and%20Low%20Fat%20Products) |
