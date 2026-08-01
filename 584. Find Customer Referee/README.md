@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products">584. Find Customer Referee</a></h2><h3>Easy</h3><hr><p>Table: <code>Customer</code></p>
+<h2><a href="https://leetcode.com/problems/find-customer-referee">584. Find Customer Referee</a></h2><h3>Easy</h3><hr><p>Table: <code>Customer</code></p>
 
 <pre>
 +-------------+---------+
@@ -16,13 +16,8 @@ Each row of this table indicates the id of a customer, their name, and the id of
 
 <p>Find the names of the customer that are either:</p>
 <ol>
-    <li>
-        <p><strong>Referred by</strong> any customer with <code>id != 2</code>.</p>
-    </li>
-
-    <li>
-        <p><strong>Not referred by</strong> any customer.</p>
-    </li>
+  <li><strong>Referred by</strong> any customer with <code>id != 2</code>.</li>
+  <li><strong>Not referred by</strong> any customer.</li>
 </ol>
 <p>Return the result table in <strong>any order</strong>.</p>
 
